@@ -1,0 +1,16 @@
+C:\Users\Jessieduan\Desktop\C#\WpfTest\obj\Debug\WpfTest.csprojAssemblyReference.cache
+C:\Users\Jessieduan\Desktop\C#\WpfTest\obj\Debug\MainWindow.g.cs
+C:\Users\Jessieduan\Desktop\C#\WpfTest\obj\Debug\App.g.cs
+C:\Users\Jessieduan\Desktop\C#\WpfTest\obj\Debug\WpfTest_MarkupCompile.cache
+C:\Users\Jessieduan\Desktop\C#\WpfTest\obj\Debug\WpfTest_MarkupCompile.lref
+C:\Users\Jessieduan\Desktop\C#\WpfTest\bin\Debug\WpfTest.exe.config
+C:\Users\Jessieduan\Desktop\C#\WpfTest\bin\Debug\WpfTest.exe
+C:\Users\Jessieduan\Desktop\C#\WpfTest\bin\Debug\WpfTest.pdb
+C:\Users\Jessieduan\Desktop\C#\WpfTest\obj\Debug\MainWindow.baml
+C:\Users\Jessieduan\Desktop\C#\WpfTest\obj\Debug\WpfTest.g.resources
+C:\Users\Jessieduan\Desktop\C#\WpfTest\obj\Debug\WpfTest.Properties.Resources.resources
+C:\Users\Jessieduan\Desktop\C#\WpfTest\obj\Debug\WpfTest.csproj.GenerateResource.cache
+C:\Users\Jessieduan\Desktop\C#\WpfTest\obj\Debug\WpfTest.csproj.CoreCompileInputs.cache
+C:\Users\Jessieduan\Desktop\C#\WpfTest\obj\Debug\WpfTest.csproj.Fody.CopyLocal.cache
+C:\Users\Jessieduan\Desktop\C#\WpfTest\obj\Debug\WpfTest.exe
+C:\Users\Jessieduan\Desktop\C#\WpfTest\obj\Debug\WpfTest.pdb
